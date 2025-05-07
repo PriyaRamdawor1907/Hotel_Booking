@@ -14,11 +14,11 @@ const Hero = () =>{
           Discover your perfect geteway destination
         </h1>
         <p className="max-w-130 mt-2 text-sm md:text-base">
-          Unparalled luxury and comfort await at the world's most exclusive hotels and resorts.
-          Start your journey today.
+          Experience unmatched luxury and comfort at the world's most exclusive hotels and resorts.
+          Begin your unforgettable journey today.
         </p>
 
-        <form className='bg-white/75 text-gray-600 rounded-lg px-6 py-4 flex flex-col md:flex-row max-md:items-start gap-4 max-md:mx-auto mt-8'>
+        <form className='bg-white/65 text-gray-600 rounded-lg px-6 py-4 flex flex-col md:flex-row max-md:items-start gap-4 max-md:mx-auto mt-8'>
           <div>
             <div className='flex items-center gap-2'>
               <img src={assets.calenderIcon} alt="calendar" className='h-4'/>
