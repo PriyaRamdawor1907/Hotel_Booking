@@ -1,12 +1,23 @@
-# React + Vite
+# 🏨 Hotel Booking App 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to the **Hotel Booking App**, a modern and intuitive platform for booking hotels with ease. Built using **React JS** and styled with **Tailwind CSS**, this application offers a smooth and responsive user experience.  
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Tech Stack
 
-## Expanding the ESLint configuration
+- **React JS** ⚛️ — Frontend library for building interactive user interfaces.  
+- **Tailwind CSS** 🎨 — Utility-first CSS framework for responsive design.  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## ✨ Features
+
+### 🌟 User Features
+
+- 🏢 **Browse Hotels** — View a wide range of hotel options with images, prices, and amenities.  
+- 📝 **Hotel Details** — View detailed information about each hotel, including images, amenities, and availability.  
+- 📅 **Book a Room** — Choose a room type, select dates, and book directly from the app.  
+- 🧭 **Responsive Design** — Optimized for mobile, tablet, and desktop.  
+
+
