@@ -20,4 +20,6 @@ Welcome to the **Hotel Booking App**, a modern and intuitive platform for bookin
 - 📅 **Book a Room** — Choose a room type, select dates, and book directly from the app.  
 - 🧭 **Responsive Design** — Optimized for mobile, tablet, and desktop.  
 
+## Deployment
 
+- Deployed frontend **Vercel**  : https://hotel-booking-delta-ten.vercel.app/
